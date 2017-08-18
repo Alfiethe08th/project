@@ -1,0 +1,5 @@
+CFBundleDisplayName = "Google Chrome";
+CFBundleGetInfoString = "Google Chrome 60.0.3112.90, ‏حقوق الطبع والنشر لعام 2017 لصالح شركة .Google Inc. جميع الحقوق محفوظة.";
+CFBundleName = "Chrome";
+NSContactsUsageDescription = "‏يمكن أن تساعد التفاصيل الواردة من جهات اتصالك في ملء النماذج بسرعة في Chrome.";
+NSHumanReadableCopyright = "‏حقوق الطبع والنشر لعام 2017 لصالح شركة .Google Inc. جميع الحقوق محفوظة.";

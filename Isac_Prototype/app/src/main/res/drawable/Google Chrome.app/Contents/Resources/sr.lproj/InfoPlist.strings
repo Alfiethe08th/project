@@ -1,0 +1,5 @@
+CFBundleDisplayName = "Google Chrome";
+CFBundleGetInfoString = "Google Chrome 60.0.3112.90, Ауторска права 2017. Google Inc. Сва права задржана.";
+CFBundleName = "Chrome";
+NSContactsUsageDescription = "Детаљи из контаката могу да вам помогну да брже попуњавате обрасце у Chrome-у.";
+NSHumanReadableCopyright = "Ауторска права 2017. Google Inc. Сва права задржана.";
